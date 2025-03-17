@@ -1,14 +1,12 @@
 # Hi there, I'm Xiaojing(Kay) Xu 👋
-- 📍 San Francisco Bay Area  
+📍 **Location**: San Francisco Bay Area  
 
-- 🎓 **Currently** pursuing a Software Engineering Certificate at San José State University, mastering full-stack development with JavaScript, React, Node.js, and databases.
-  
-- 📚 **Previously** earned a Master’s in Integrated Marketing from NYU and attended a Finance Exchange Program at UC Berkeley!
-  
-- 📊 **With 6+ years of experience as a Data Analyst**, I’ve worked with Python, SQL, and data visualization to drive insights and business decisions. 
+🎓 **Education**:  
+- **Currently** pursuing a **Software Engineering Certificate** at **San José State University**, mastering **JavaScript, React, Node.js, and databases**.  
+- **Previously** earned a **Master’s in Integrated Marketing** from **NYU** and attended a **Finance Exchange Program** at **UC Berkeley**.  
 
-
-## 💼 Currently Seeking: Full-Stack Developer Role
+📊 **Experience**:  
+- **6+ years as a Data Analyst**, working with **Python, SQL, and data visualization**
 
 I am actively looking for a full-time position as a **Full-Stack Developer** where I can contribute to building innovative and impactful software solutions.
 
