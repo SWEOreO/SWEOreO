@@ -8,6 +8,10 @@
 📊 **Experience**:  
 - **6+ years as a Data Analyst**, working with **Python, SQL, and data visualization**
 
+✨ **Fun Facts**:  
+- 🔮 **Tarot Enthusiast** – Exploring intuition, symbolism, and spiritual insights.  
+- 📷 **Photography Lover** – Capturing moments and telling stories through the lens.  
+
 I am actively looking for a full-time position as a **Full-Stack Developer** where I can contribute to building innovative and impactful software solutions.
 
 
