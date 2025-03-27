@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 :  Master’s Degree from NYU, Exchange Program at UC Berkeley, Certificate from San Jose State University.<br><br>📊 Experience: 6+ years as a Market Data Analyst, Working with Python, SQL, and Data Visualization.<br><br>✨ Fun Facts: Tarot Enthusiast, Photography Lover <br><br>🎯 I am Actively Looking for a FULL-TIME Position as a Full-Stack Developer.</p>
+<p align="left">🎓 :  Master’s Degree from NYU, Exchange Program at UC Berkeley, Certificate from San Jose State University.<br><br>📊 Experience: 6+ years as a Marketing Data Analyst, Working with Python, SQL, and Data Visualization.<br><br>✨ Fun Facts: Tarot Enthusiast, Photography Lover <br><br>🎯 I am Actively Looking for a FULL-TIME Position as a Full-Stack Developer.</p>
 
 ###
 
