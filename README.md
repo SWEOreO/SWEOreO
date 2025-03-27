@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SWEOreO/SWEOreO/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/SWEOreO/SWEOreO/output/github-contribution-grid-snake-dark.svg" />
 
 ###
